@@ -1,0 +1,4 @@
+{
+    "command": "npm install && npx tsc --noEmit && npm test -- --ci",
+    "working_directory": "/home/kavia/workspace/code-generation/insightvista-dashboard-105415-63b978c8/insightvista_dashboard"
+}
